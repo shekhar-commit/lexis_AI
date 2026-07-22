@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/0c773bde-07b2-4091-b77b-b3641ce20fbd
+View your app in AI Studio: https://lexis-ai.ai.studio/
 
 ## Run Locally
 
