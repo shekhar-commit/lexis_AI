@@ -1,0 +1,8 @@
+{
+  "name": "Lexis AI",
+  "description": "An intelligent ChatGPT-style legal assistant for contract analysis, document summarization, case law research, and legal drafting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

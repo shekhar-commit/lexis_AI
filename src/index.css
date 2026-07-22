@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+/* Custom scrollbar matching the dark, slate/zinc theme of Lexis AI */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #0d0d10;
+}
+::-webkit-scrollbar-thumb {
+  background: #27272a;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #3f3f46;
+}
+
+/* Firefox standard scrollbars */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #27272a #0d0d10;
+}
